@@ -1,13 +1,22 @@
-import random
-
-trexboys = []
-
-for i in range(500):
-    #i = 0,1,2...499
-
-    x = random.randint(1, 100)
-
-    trexboys.append(x)
-
-for i in range(500):
-    
+dinosaurstory= []
+dinosaur = input("gimme a dinosaur")
+dinosaurstory.append(dinosaur)
+adverb = input("gimme a adverb")
+dinosaurstory.append(adverb)
+verb = input("gimme a verb")
+dinosaurstory.append(verb)
+adjective = input("gimme a adjective")
+dinosaurstory.append(adjective)
+noun = input("gimme a noun")
+dinosaurstory.append(noun)
+verb2 = input('gimme a verb')
+dinosaurstory.append(verb2)
+character = input("gimme a Jurassic Park franchise character")
+dinosaurstory.append(character)
+gender = input("gimme a he/she")
+dinosaurstory.append(gender)
+adverb2 = input("gimme a adverb")
+dinosaurstory.append(adverb2)
+verb3 = input("gimme a verb")
+dinosaurstory.append(verb3)
+print(f"The {dinosaurstory[0]} {dinosaurstory[1]} {dinosaurstory[2]} the {dinosaurstory[3]} {dinosaurstory[4]} and then {dinosaurstory[5]} {dinosaurstory[6]} and {dinosaurstory[7]} {dinosaurstory[8]} {dinosaurstory[9]}.")       

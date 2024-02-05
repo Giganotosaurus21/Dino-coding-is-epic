@@ -1,2 +1,4 @@
 # Dino-coding-is-epic
-print('Yippee')
+You smell horrible
+and are sus!!!
+PLEASE LEAVE CODESPACE OR ELSE YOUR COMPUTER WILL OVERHEAT BECAUSE OF YOUR SUS SMELL!!!!
