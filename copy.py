@@ -1,7 +1,7 @@
 import random
 
 indoraptor = []
-itemnumber = 99
+itemnumber = 0
 for i in range(100):
     
 
@@ -13,7 +13,7 @@ scorpiusrex = []
 for i in range(100):
 
     y = indoraptor[itemnumber]
-    itemnumber = itemnumber - 1
+    itemnumber = itemnumber + 1
     scorpiusrex.append(y)
 print(indoraptor)
 print(scorpiusrex)
